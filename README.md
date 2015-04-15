@@ -16,7 +16,6 @@ The workflow outlined in the readme below will be utilized for every assignment/
 ### Step 1 - Fork this repo
 
 - Go to GitHub and fork this repo to your account
-- Open git-workflow directory by clicking on File->Open
 
 ### Step 2 - Clone *your* repo
 - Copy the link from your github account for your portfolio repo
