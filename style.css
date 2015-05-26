@@ -1,0 +1,27 @@
+body
+{
+}
+
+.tcontainer
+{
+	height:900px;
+}
+
+.topicture
+{
+	opacity:0.3;
+	background-image: url("images/stairs.jpg");
+	background-repeat:no-repeat;
+	background-size: 100%;
+}
+
+
+.stairpic
+{
+	width:100%;
+}
+
+.navbar
+{
+	padding-bottom:0px;
+}
